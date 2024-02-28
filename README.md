@@ -53,3 +53,6 @@ Mi correo es: _**sssr308a@gmail.com**_
 Mi número es: _**55 7854 2404**_
 
 Me pueden encontrar en instagram como: _**sergio.salazarr**_
+
+---
+[práctica_3](https://github.com/sssrcv/practica3)
